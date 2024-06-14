@@ -17,6 +17,7 @@ class Game {
   }
 
   registerEvents() {
+    console.log("Привет")
     /*
       TODO:
       Написать обработчик события, который откликается
